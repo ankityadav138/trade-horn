@@ -1,0 +1,50 @@
+{
+  "primary": "#f7287b",
+  "accent": "#c717fc",
+
+  "background": "#ffffff",
+  "backgroundLight": "#EFEFEF",
+  "backgroundDark": "#061E39",
+  "greenInfoBg": "#C9F2EA",
+  "redInfoBg": "#ECC4D5",
+  "cancelBtnBg": "#EB7274",
+
+  "buttonColor": "#5AB191",
+  "bottomTabColor": "#fff",
+  "headerColor": "#000000F0",
+  "borderColor": "#8A8A8A",
+  "iconColor": "#000000F0",
+  "inputBackgroud": "#E7E7E7",
+  "inputDark": "#606060",
+  "buttonBackground": "#5AB191",
+  "subText": "#939393",
+  "Icon": "#ffff",
+  "inputBGBuysell": "#E7E7E7",
+
+  "heading": "#000000F0",
+  "subHeading": "#000000F0",
+  "title": "#000000F0",
+  "subTitle": "#ffffff",
+  "paragraphColor": "#ffffff",
+  "placeHolderColor": "#ffffff",
+  "placeHolderColor1": "#ffffff",
+
+  "darkBlue": "#1E7BF6",
+  "blueColor": "#1EBCF6",
+  "green": "#08D870",
+  "red": "#FF0458",
+  "pink": "#E8566A",
+  "seaGreen": "#7BEFCC",
+  "lightPurple": "#E3E3E3",
+  "white": "#fff",
+  "lightBlue":"#1E7BF6",
+  "lightPink":"#DAD3E7",
+  "Gray":"",
+  "skyColor":"#75D6F9",
+  "transparentGradientColor1":"rgba(3,24,47, 0.9)",
+  "transparentGradientColor2":"rgba(4, 46, 88, 0.5)",
+  "greyish":"#00000099",
+  "darkBlack":"#000000"
+
+}
+                                          
